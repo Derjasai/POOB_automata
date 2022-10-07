@@ -1,0 +1,29 @@
+Ciclo 2 (mimos)
+1. Solo debemos sobreescribir el metodo de decidir
+3.
+	a. Despues de 3 tic-tac las celulas deberian ir adoptando el estado de su vecina derecha, almenos que haya alguna celula en su parte norte, como es el caso nuestro.
+	b. Si
+	c. Captura pantallas tu <3, si quieres oculta otros elementos antes de caputrar la pantalla
+
+Ciclo 3 (kriptonita)
+1. 
+	a. No debemos cambiar nada del codigo
+	b. Al momento de hacer la kriptonita decidimos hacer que implemente la interface Thing, de esta forma la kriptonita puede ser agregada al array de Thing sin ningún problema y por tanto tendrá los metodos de decide y change, que son los que usamos en el metodo tictac para poder definir el juego
+3.
+	a. Despues de 3 tic-tac la kriptonita se habria de expandir hacia sus alrededores de manera extensa, en caso de tener un vecino vivo en su vecindario, si no lo tiene esta deberia quedar inactiva hasta tener un vecino activo en su vecindario
+	b. Si
+	c. Captura pantallas nuevamente <3
+
+Ciclo 4 (zombies)
+1. Se creará una nueva celula zombie, la cual va a infectar otras celulas sin importar el estado de actividad de estas, cuando la celula zombie alcance 3 tiempos de vida muere permanentemente, pero cada vez que infecta otra celula esta resetea su tiempo de vida. Las celulas zombies solo pueden infectar si estan activas, son de color rojo
+2. Caputa pantalla nuevamente <3
+
+Ciclo 5 (Fortress)
+1. Una vez creada las celulas zombies tendremos un pronto apocalipsis, por lo que creamos unas fortalezas las cuales van a matar exclusivamente a las celulas zombies alrededor de ella, su alrededor abarca un radio de dos casillas desde donde se encuentra situada, es de color cyan
+2. Captura pantalla nuevamente <3
+
+Notitas varias:
+Falta todo el diseño en Astah pero ese te lo dejo a ti, en el caso del diagrama de clases es exactamente igual al diagrama que muestra BlueJ, tambien puedes buscar la forma en astah de importar codigo en java y astah te hace el diagrama de clases automaticamente, falta documentar algunas cosas y ya
+
+
+

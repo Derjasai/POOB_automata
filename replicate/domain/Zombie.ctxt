@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ La\ clase\ zombie\ es\ una\ Cell\ especial\ correspondiente\ al\ ciclo4\:Nueva\ Cell\r\n\ \r\n\ @author\ Ramos-Parra\ \r\n\ @version\ 17/03/2021\r\n
+comment1.params=am\ row\ column\ active
+comment1.target=Zombie(AManufacturing,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Constructor\ de\ la\ Cell\ especial\ Zombie\r\n\ @param\ Automata\ Cellr\r\n\ @parm\ fila\r\n\ @param\ columna\r\n
+comment2.params=
+comment2.target=void\ decide()
+comment2.text=\r\n\ Esta\ funcion\ ejecuta\ las\ caracteristicas\ especiales\ de\ la\ Cell\ Zombie,\ poder\ infectar\ a\ sus\ cercanos\ y\ morira\ despues\ de\ 3\ "turnos"\r\n
+numComments=3

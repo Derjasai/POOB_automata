@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AManufacturingTest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AManufacturingTest\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ deberiaCrearCelulaViva()
+comment2.params=
+comment2.target=void\ deberiaEstarMuertaCelula()
+comment3.params=
+comment3.target=void\ deberiaCrearMimo()
+comment4.params=
+comment4.target=void\ deberiaCopiarEstadoMimo()
+comment5.params=
+comment5.target=void\ deberiaCrearKriptonita()
+comment6.params=
+comment6.target=void\ deberiaDesactivarseKriptonitaTresEsquinas()
+comment7.params=
+comment7.target=void\ deberiaReplicarseKriptonita()
+comment8.params=
+comment8.target=void\ deberiaZombieInfectarCelulasCercanas()
+comment9.params=
+comment9.target=void\ deberiaMatarZombiesCercanos()
+numComments=10

@@ -6,7 +6,7 @@ public abstract class Artefact{
     
     public final static char UNKNOWN='u', ACTIVE='a', INACTIVE='d';
     protected char state;
-    private int steps;
+    protected int steps;
 
     /**Create a new Artefact
      * 
@@ -36,5 +36,4 @@ public abstract class Artefact{
     public final boolean isActive(){
         return (state == Artefact.ACTIVE) ;
     }
-    
 }
