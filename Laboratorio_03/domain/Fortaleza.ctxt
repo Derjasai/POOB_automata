@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Fortaleza
+comment0.text=\r\n\ La\ clase\ fortaleza\ corresponde\ al\ ciclo5\ del\ laboratorio\:\ Crear\ un\ nuevo\ elemnto,\ es\ un\ elemento\ relacionado\ con\ la\ celula\ especial\ zombie,\ este\ elemnto\r\n\ mata\ (cambia\ el\ atributo\ isVivo)\ todos\ los\ zombies\ \r\n\ \r\n\ @author\ Ramos-Parra\r\n\ @version\ 16/03/2021\r\n
+comment1.params=ac\ fila\ columna
+comment1.target=Fortaleza(AutomataCelular,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ fortaleza\r\n\ @param\ Automata\ Celular\r\n\ @param\ Fila\r\n\ @param\ Columna\r\n
+comment2.params=
+comment2.target=int\ forma()
+comment2.text=\r\n\ Retorna\ la\ forma\ del\ elemento\ como\ entero\ \r\n\ @return\ Numero\ entero\ dependiendo\ si\ es\ cuadrada\ o\ no\r\n
+comment3.params=
+comment3.target=java.awt.Color\ getColor()
+comment3.text=\r\n\ Retorna\ el\ color\ actual\ de\ la\ fortaleza\r\n\ @return\ color\ de\ la\ fortaleza\r\n
+comment4.params=
+comment4.target=void\ cambie()
+comment4.text=\r\n\ Funcion\ que\ mata(cambia\ el\ estado\ de\ ser)\ los\ zombies\ cercanos\r\n
+comment5.params=
+comment5.target=boolean\ isVivo()
+comment5.text=\r\n\ retorna\ si\ la\ fortaleza\ esta\ viva\ (al\ ser\ un\ elemnto\ siempre\ esta\ vivo)\r\n\ @return\ Estado\ de\ la\ fortaleza\ (viva\ o\ muerta)\r\n
+numComments=6

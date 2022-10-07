@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Especial
+comment0.text=\r\n\ Celula\ solicitada\ para\ el\ ciclo4\:\ Nueva\ Celula\r\n\ \r\n\ Daniel\ Ramos\ -\ Andres\ Parra\r\n\ @version\ 17/03/2021\r\n
+comment1.params=ac\ fila\ columna
+comment1.target=Especial(AutomataCelular,\ int,\ int)
+comment1.text=\r\n\ Constructo\ de\ la\ casle\ especial\r\n\ @param\:\ automataCelular\ automata\ celular\ en\ donde\ se\ encuentra\ la\ celula\r\n\ @param\:\ fila\ posicion\ de\ la\ celula\r\n\ @param\:\ columna\ posicion\ de\ la\ celula\r\n
+comment2.params=
+comment2.target=void\ todosMuertos()
+comment2.text=\r\n\ Esta\ funcion\ revisa\ los\ alrededores\ e\ identifica\ si\ la\ celula\ tiene\ que\ morir\r\n
+comment3.params=fila\ columna
+comment3.target=boolean\ a\u00F1adir(int,\ int)
+comment3.text=\r\n\ permite\ saber\ si\ es\ necesaria\ a\u00F1adir\ una\ celula\ alrededor\r\n\ @param\ fila\ posicion\ de\ la\ celula\r\n\ @param\ columna\ posicion\ de\ la\ celula\r\n
+comment4.params=fila\ columna
+comment4.target=void\ nacer(int,\ int)
+comment4.text=\r\n\ decide\ la\ primera\ posicion\ posible\ donde\ crear\ una\ nueva\ celula\r\n\ @param\ fila\ posicion\ de\ la\ celula\r\n\ @param\ columna\ posicion\ de\ la\ celula\ \r\n
+comment5.params=
+comment5.target=void\ decida()
+comment5.text=\r\n\ decide\ cual\ es\ el\ estado\ de\ la\ celula\r\n
+numComments=6
